@@ -1,0 +1,15 @@
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.csproj.AssemblyReference.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.AssemblyInfoInputs.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.AssemblyInfo.cs
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\bin\Debug\net6.0\DZ5-1.exe
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\bin\Debug\net6.0\DZ5-1.deps.json
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\bin\Debug\net6.0\DZ5-1.runtimeconfig.json
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\bin\Debug\net6.0\DZ5-1.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\bin\Debug\net6.0\DZ5-1.pdb
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\refint\DZ5-1.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.pdb
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\DZ5-1.genruntimeconfig.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Common\seminar5\DZ5-1\obj\Debug\net6.0\ref\DZ5-1.dll
